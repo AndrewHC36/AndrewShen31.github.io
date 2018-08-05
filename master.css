@@ -1,0 +1,18 @@
+html {
+  font-family: arial;
+}
+
+
+body {
+  background-color: #f5a267;
+}
+
+#iTITLE {
+  font-family: inherit;
+  background-color: #36e036;
+}
+
+#iUPDATE {
+  font-size: 10pt;
+  font-family: inherit;
+}
