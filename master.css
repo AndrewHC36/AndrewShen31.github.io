@@ -6,12 +6,41 @@ body {
   background-color: #f5a267;
 }
 
-#iTITLE {
-  font-family: inherit;
-  background-color: #36e036;
+footer {
+  background-color: #dddddd;
+  position: absolute;
+  margin-left: -1%;
+  padding: 10px;
+  width: 100%;
+  bottom: 0;
 }
 
-#iUPDATE {
-  font-size: 10pt;
-  font-family: inherit;
+.title-header {
+  font-size: 200%;
+}
+
+.current-project  {
+  background: #15e6bc;
+  display: flex;
+  justify-content: space-around;
+}
+
+.right-wrapper {
+  padding: 1%;
+}
+
+.project-title {
+  font-size: 140%;
+}
+
+.current-image {
+  width: 30%;
+  height: 30%;
+}
+
+.nav-but {
+  border: 1px solid #ffffff;
+  background-color: #c5ed26;
+  font-size: 100%;
+  padding: 0.5%;
 }
