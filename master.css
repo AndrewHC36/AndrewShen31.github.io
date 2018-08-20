@@ -15,6 +15,10 @@ footer {
   bottom: 0;
 }
 
+nav {
+  margin-bottom: 20px;
+}
+
 .title-header {
   font-size: 200%;
 }
@@ -43,4 +47,35 @@ footer {
   background-color: #c5ed26;
   font-size: 100%;
   padding: 0.5%;
+}
+
+.person-name, .programming-title, .music-title, .art-title, .climate-title {
+  padding: 5px;
+  font-size: 225%;
+}
+
+.person-name {
+  background-color: #16e268;
+}
+
+.programming-title {
+  background-color: #16e268;
+}
+
+.music-title {
+  background-color: #16e268;
+}
+
+.art-title {
+  background-color: #16e268;
+}
+
+.climate-title {
+  background-color: #16e268;
+}
+
+.person-description {
+  background-color: #0cfc6d;
+  margin-top: 5px;
+  padding: 5px;
 }
